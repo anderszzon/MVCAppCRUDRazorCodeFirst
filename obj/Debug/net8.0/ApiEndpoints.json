@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MVCAppCRUDRazorCodeFirst.Controllers.AtletaAPIController",
+    "Method": "GetAll",
+    "RelativePath": "api/AtletaAPI/ObtenerAtletlas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MVCAppCRUDRazorCodeFirst.Models.Atletlas, MVCAppCRUDRazorCodeFirst, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
